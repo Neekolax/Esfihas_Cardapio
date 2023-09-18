@@ -165,12 +165,14 @@ html {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 .cardapio h2 {
     font-size: 5rem;
     color: #e6e6e6;
     text-transform: uppercase;
+    padding-top: 20px;
 }
 
 .itens-cardapio {
@@ -226,7 +228,7 @@ html {
 
 .itens-cardapio img {
     width: 100%;
-    height: 200px;
+    height: 400px;
 }
 
 .itens-cardapio .info .pedir {
